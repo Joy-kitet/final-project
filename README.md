@@ -2,7 +2,7 @@
 
 **Live App:** [https://welness-6b05a.web.app](https://welness-6b05a.web.app)
 
-## 🧠🏋️ FitMind Overview
+## FitMind Overview
 
 FitMind is a comprehensive fitness and mental wellness mobile-first web app built with Flutter and Firebase. The platform merges physical health, mental clarity, and social accountability into a single experience.
 
@@ -19,43 +19,43 @@ It is designed to guide users through structured workouts, provide mental well-b
 
 ---
 
-## 🔥 Features
+##  Features
 
-### ✅ Fitness Features
+### Fitness Features
 
 * Browse categorized workouts (Yoga, HIIT, Strength, Stretching)
 * Video-based tutorials with embedded YouTube support
 * Calorie estimation per workout
 * Schedule and complete daily fitness challenges
 
-### 🧘 Mental Wellness
+### Mental Wellness
 
 * Daily affirmations and mood check-ins
 * Guided meditation sessions (YouTube embedded)
 * Mental health blog integration
 * Emotion tracking with visual trends
 
-### 🌐 Community
+###  Community
 
 * Anonymous message board for users to share progress
 * Encouragement badges and emojis
 * Commenting and upvoting system for accountability
 * Firebase Firestore-powered real-time updates
 
-### 🍎 Nutrition + Calorie Tracker
+### Nutrition + Calorie Tracker
 
 * Basic calorie counter integration
 * Educational tips on portion control
 * Daily nutrition goals
 
-### 📱 Cross-platform
+### Cross-platform
 
 * Fully responsive (Mobile-first)
 * Built in Flutter Web + Firebase Hosting
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Layer    | Technology                          |
 | -------- | ----------------------------------- |
@@ -174,8 +174,7 @@ firebase deploy
 
 ## 👥 Contributors
 
-* **You** — Product Lead, Firebase Setup, Deployment, UI Design
-* **ChatGPT** — Prompt-driven architecture, Firebase rules, README writing
+* **Debrajoy Kitet** — Product Lead, Firebase Setup, Deployment, UI Design
 
 ---
 
