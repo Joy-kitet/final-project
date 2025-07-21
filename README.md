@@ -12,7 +12,7 @@ It is designed to guide users through structured workouts, provide mental well-b
 
 ##  Screenshots
 
-![Home Screen](<img width="1359" height="621" alt="Screenshot 2025-07-21 132806" src="https://github.com/user-attachments/assets/6535b604-d906-4f73-a4df-5a9938249b42" />
+!<img width="1359" height="621" alt="Screenshot 2025-07-21 132806" src="https://github.com/user-attachments/assets/6535b604-d906-4f73-a4df-5a9938249b42" />
 s/home.png)
 ![Workout Player](screenshots/workout.png)
 ![Mental Wellness Section](screenshots/mental.png)
