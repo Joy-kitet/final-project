@@ -70,6 +70,10 @@ It is designed to guide users through structured workouts, provide mental well-b
 ##  Project Planning & Technical Architecture
 
 FitMind was developed using an iterative, prompt-first design methodology. The project followed a structured planning phase involving:
+* User flow mapping to define the experience from onboarding to daily tracking
+* Modular architecture design for scalable feature integration (e.g., mental wellness, nutrition, fitness tracking)
+* Firebase-first backend strategy for real-time data syncing and secure authentication
+* UI prototyping and review cycles to refine user interactions and accessibility across screens
 
 
 ### 📦 App Structure Design
