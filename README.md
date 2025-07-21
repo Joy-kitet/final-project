@@ -87,7 +87,7 @@ FitMind was developed using an iterative, prompt-first design methodology. The p
 ### 2. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/fitmind.git
+git clone https://github.com/your-username/final-project.git
 cd fitmind
 ```
 
