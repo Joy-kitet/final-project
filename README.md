@@ -10,7 +10,7 @@ It is designed to guide users through structured workouts, provide mental well-b
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Home Screen](screenshots/home.png)
 ![Workout Player](screenshots/workout.png)
@@ -77,7 +77,7 @@ FitMind was developed using an iterative, prompt-first design methodology. The p
 
 ---
 
-## 🧪 Local Setup
+##  Local Setup
 
 ### 1. Prerequisites
 
@@ -106,7 +106,7 @@ firebase deploy
 
 ---
 
-## 🔐 Security & Fault Tolerance
+##  Security & Fault Tolerance
 
 * Firebase Auth for secure login
 * Anonymous mode supported
@@ -115,9 +115,9 @@ firebase deploy
 
 ---
 
-## 🙋 Sample Test Cases
+##  Sample Test Cases
 
-### ✅ 1. Workout Player Test
+###  1. Workout Player Test
 
 **Steps:**
 
@@ -125,7 +125,7 @@ firebase deploy
 * Click a workout video
 * Confirm calorie data displays and plays without errors
 
-### 🧠 2. Mental Wellness Tool Test
+###  2. Mental Wellness Tool Test
 
 **Steps:**
 
@@ -133,7 +133,7 @@ firebase deploy
 * Select "Start Breathing Exercise"
 * Observe animations and timers function properly
 
-### 🌐 3. Community Test
+###  3. Community Test
 
 **Steps:**
 
@@ -143,7 +143,7 @@ firebase deploy
 
 ---
 
-## 🧘 Future Roadmap
+##  Future Roadmap
 
 * [ ] AI-generated workouts
 * [ ] Personalized nutrition suggestions
@@ -152,19 +152,19 @@ firebase deploy
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 * **Debrajoy Kitet** — Product Lead, Firebase Setup, Deployment, UI Design
 
 ---
 
-## 📎 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 💬 Let’s Connect!
+##  Let’s Connect!
 
 Built with 💚 for those who believe fitness and mental wellness are two sides of the same coin.
 
