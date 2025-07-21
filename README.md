@@ -67,9 +67,10 @@ It is designed to guide users through structured workouts, provide mental well-b
 
 ---
 
-## 🚀 Prompt Engineering + LLM Usage
+##  Project Planning & Technical Architecture
 
-FitMind was built through an **iterative prompt-first approach** using LLMs (like ChatGPT) to generate architecture plans, UI ideas, and Firebase workflows.
+FitMind was developed using an iterative, prompt-first design methodology. The project followed a structured planning phase involving:
+
 
 ### 📦 App Structure Design
 
