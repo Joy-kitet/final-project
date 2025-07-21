@@ -75,31 +75,6 @@ FitMind was developed using an iterative, prompt-first design methodology. The p
 * Firebase-first backend strategy for real-time data syncing and secure authentication
 * UI prototyping and review cycles to refine user interactions and accessibility across screens
 
-
-### 📦 App Structure Design
-
-**Prompt:**
-
-> "Design a Flutter fitness app structure with support for workout tutorials, mental wellness, calorie tracking, and community messaging. Include a folder layout and sample routing logic."
-
-### 📊 Firestore Schema
-
-**Prompt:**
-
-> "Suggest a normalized Firebase Firestore schema for a fitness app with the following features: workouts, user logs, daily affirmations, and a public community board."
-
-### 🔥 Deployment Support
-
-**Prompt:**
-
-> "Help me configure and deploy a Flutter Web project to Firebase Hosting. Add a valid `firebase.json` and show steps for `flutter build web` + `firebase deploy`."
-
-### 🧠 Mental Health Integration
-
-**Prompt:**
-
-> "Suggest five ways to integrate lightweight mental health tools into a Flutter fitness app: affirmations, breathing tools, embedded mindfulness, and more."
-
 ---
 
 ## 🧪 Local Setup
